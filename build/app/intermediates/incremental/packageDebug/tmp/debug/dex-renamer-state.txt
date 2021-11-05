@@ -1,0 +1,4 @@
+#Fri Nov 05 11:34:43 SGT 2021
+base.0=D\:\\do'a_anak\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
